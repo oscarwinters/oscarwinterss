@@ -119,7 +119,7 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 
 <br />
 <br />
-<b>DHCP Server:</b> <br/>
+<b>DHCP Server(Dynamic host configuration protocol):</b> <br/>
 
 <b> WHO:</b> Network infrastructure
 
