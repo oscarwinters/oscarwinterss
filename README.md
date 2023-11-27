@@ -40,15 +40,15 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 <br />
 <b> Physical Address (MAC address) </b>  <br/>
 
-<b> WHO:</b>Your network adapter on the device
+<b> WHO:</b> Your network adapter on the device
 
-<b> WHAT:</b>Unique identifier for your network adapter
+<b> WHAT:</b> Unique identifier for your network adapter
 
 <b> WHY:</b> Used for addressing and identifying your device on a physical network
 
-<b> WHERE:</b>Exists at the hardware level of your network adapter.
+<b> WHERE:</b> Exists at the hardware level of your network adapter.
 
-<b> WHEN:</b>Constant and specific to your device 
+<b> WHEN:</b> Constant and specific to your device 
 
 
 
@@ -82,7 +82,7 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 
 <b> WHERE:</b> Local network segment
 
-<b> WHEN:</b>Assigned automatically when needed for local communication 
+<b> WHEN:</b> Assigned automatically when needed for local communication 
 ![image](https://github.com/oscarwinters/oscarwinterss/assets/146681785/7c4de7fc-e639-460d-847f-d6ff8314889f)
 
 <br />
@@ -135,7 +135,7 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 
 
 <b>DNS server:</b>  <br/>
-<b> WHO:</b>Network infrastructure
+<b> WHO:</b> Network infrastructure
 
 <b> WHAT:</b> Servers that resolve domain names to IP addresses
 
@@ -143,7 +143,7 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 
 <b> WHERE:</b> On the network
 
-<b> WHEN:</b>Whenever your device needs to resolve a domain name to access a resource 
+<b> WHEN:</b> Whenever your device needs to resolve a domain name to access a resource 
 ![image](https://github.com/oscarwinters/oscarwinterss/assets/146681785/6cb05522-1645-46b7-88d1-55402148fa51)
 
 
