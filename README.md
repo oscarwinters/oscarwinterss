@@ -59,15 +59,15 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 <br />
 <b> DHCP Enabled and Autoconfiguration Enabled: </b> <br/>
 
-<b> WHO:</b>Your networked device
+<b> WHO:</b> Your networked device
 
-<b> WHAT:</b>Enables automatic assignment of IP addresses and configuration
+<b> WHAT:</b> Enables automatic assignment of IP addresses and configuration
 
-<b> WHY:</b>Simplifies network configuration, reducing manual effort
+<b> WHY:</b> Simplifies network configuration, reducing manual effort
 
 <b> WHERE:</b> Pertains to your device's network settings
 
-<b> WHEN:</b>Whenever your device connects to the network and needs an IP address. 
+<b> WHEN:</b> Whenever your device connects to the network and needs an IP address. 
 ![image](https://github.com/oscarwinters/oscarwinterss/assets/146681785/ba29ad8f-5c85-48ca-b549-8216bc9bf017)
 
 <br />
