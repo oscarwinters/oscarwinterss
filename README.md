@@ -87,7 +87,7 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 
 <br />
 <br />
-<b>IPv4 Address and Subnet Mask(identify IP address is the NW(1's) ID, left over is the host ID(0's)):</b>  <br/>
+<b>IPv4 Address and Subnet Mask(identify IP address is the Netw ID, remainder is the host ID ):</b>  <br/>
 
 <b> WHO:</b> Your networked device
 
