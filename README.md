@@ -38,7 +38,7 @@ Project consists of a basic NetWork Settings when typing (ipcongfig /all) in the
 
 <br />
 <br />
-<b> Physical Address (MAC address) </b>  <br/>
+<b> Physical Address </b>  <br/>
 
 <b> WHO:</b> Your network adapter on the device
 
